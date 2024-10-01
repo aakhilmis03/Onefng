@@ -1,13 +1,3 @@
-import React from 'react'
-import './Title.css'
-
-const Title = ({subTitle, title}) => {
-  return (
-    <div className='title'>
-      <p>{subTitle}</p>
-      <h2>{title}</h2>
-    </div>
-  )
-}
-
-export default Title
+version https://git-lfs.github.com/spec/v1
+oid sha256:5671ac54d6cf7c3786b6e3bd63ba06e833ba8c018dad439d5f8711406dde3ebb
+size 225
